@@ -8,7 +8,7 @@ import { execSync } from "child_process";
 // Get CLI args
 const args = process.argv.slice(2);
 if (args.length !== 1) {
-  console.error("Usage: npx ax4b-next-template <ProjectName>");
+  console.error("Uso: npx ax4b-next-template <NomeDoProjeto>");
   process.exit(1);
 }
 
