@@ -6,7 +6,6 @@ Com esta CLI, você pode iniciar um projeto NextJS@14.2.5 com dependências e co
 Criar o projeto:
 
 ```bash
-# Bun
 npx ax4b-next-template "my-project"
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "ax4b-next-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "ax4b-next-template": "bin/index.js"
