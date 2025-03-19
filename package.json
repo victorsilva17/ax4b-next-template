@@ -1,0 +1,19 @@
+{
+  "name": "ax4b-next-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "ax4b-next-template": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "Next.js",
+    "Template"
+  ],
+  "author": "Victor H. Silva <victor.silva@ax4b.com>",
+  "license": "ISC",
+  "description": "A CLi to generate a Next.js project with some pre-configured packages."
+}
