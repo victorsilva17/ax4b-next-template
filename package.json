@@ -14,6 +14,6 @@
     "Template"
   ],
   "author": "Victor H. Silva <victor.silva@ax4b.com>",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A CLi to generate a Next.js project with some pre-configured packages."
 }
